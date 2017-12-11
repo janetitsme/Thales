@@ -1,0 +1,10 @@
+Agile is a time based iterative approach to project delivery that build the game incrementally from the beginning of the project, instead of deliver the enire project at the end.
+
+How it works: Depends on the requirements we list the things to do and assign number of days or hours to do each list. We can ask the clients prioritze the listso most important things are done first.
+Then we start delivering some value starting at the top and work to the bottom. Building, iterating, and getting feedback from the clients as we build the game.
+For every sprint Analysis, design, coding and testing are continuous activity in Agile. So client will see the project and express their opinion or problems.
+
+Waterfall methodology is a sequential design process. This means that as each of the eight stages (conception, initiation, analysis, design, construction, testing, implementation, and maintenance) are completed, the developers move on to the next step.
+As this process is sequential, once a step has been completed, developers can’t go back to a previous step – not without scratching the whole project and starting from the beginning. There’s no room for change or error, so a project outcome and an extensive plan must be set in the beginning and then followed carefully.Here the initial stage is very crucial any bugs cant be identified at earlier stage will continue till the end and hard to find because the whole product is only tested at the end.
+In this case if the customer does not like the product or any functionality not working according to the customers imagination then changes will be very hard and time consuming.
+So we have chosen Agile methadology. We can show the product to our clients when each sprint completed. Then it will be a unit of the project is completed. If changes needs doing it will be quite earlier stage to make the changes.

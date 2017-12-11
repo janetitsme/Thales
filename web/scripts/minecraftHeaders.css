@@ -1,0 +1,38 @@
+#mineHeader
+{
+	border-bottom:0;
+	border-left:0;
+	border-right:0;
+}
+
+#mineCraftBorder
+{
+	border-bottom:0;
+	border-left:0;
+	border-right:0;
+	display:block;
+	background:url(images/minecraftBorder.png) no-repeat;
+	position:relative;
+}
+
+#imap a#title:hover
+{
+	position:absolute;
+	padding:0;
+	margin:0;
+}
+
+#map  #whatismine
+{
+	left:165px;
+	top:0px;
+	z-index:20;
+}
+
+#map  #mineTutorial
+{
+	left:565px;
+	top:0px;
+	z-index:20;
+}
+}
